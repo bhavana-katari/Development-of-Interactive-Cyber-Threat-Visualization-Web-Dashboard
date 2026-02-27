@@ -163,21 +163,9 @@ http://localhost:5000
 Make sure you run the terminal with appropriate permissions if packet capture requires elevated access.
 
 ---
+## 🎥 Dashboard Demo Video
 
-## 🌐 Live Deployment
-
-🔗 https://dashb-mu.vercel.app/
-
----
-
-## 🎥 Project Demonstration Video
-
-
-https://github.com/user-attachments/assets/0f523e9c-9724-4a27-a229-82b8c765ce4d
-
-
-
-
+[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 ---
 
 ## 📊 Real-World Applications
