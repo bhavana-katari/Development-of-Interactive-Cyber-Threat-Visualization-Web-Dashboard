@@ -172,10 +172,13 @@ Make sure you run the terminal with appropriate permissions if packet capture re
 
 ## 🎥 Project Demonstration Video
 
+
+https://github.com/user-attachments/assets/0f523e9c-9724-4a27-a229-82b8c765ce4d
+
+
 Click below to watch the demo directly on GitHub:
 
-[▶️ Watch Demo Video](project.mp4)
-
+<video src="project.mp4"></video>
 
 ---
 
