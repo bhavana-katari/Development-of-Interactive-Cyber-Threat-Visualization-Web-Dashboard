@@ -170,10 +170,11 @@ Make sure you run the terminal with appropriate permissions if packet capture re
 
 ---
 
-## 🎥 Project Demonstration
+## 🎥 Project Demonstration Video
 
-[![Dashboard Demo]](https://drive.google.com/file/d/16mCbZ1CO6_z5vJL5XmfDUfT0Dqp931FN/view?usp=sharing)
+Click below to watch the demo directly on GitHub:
 
+[▶️ Watch Demo Video](demo-video.mp4)
 
 
 ---
