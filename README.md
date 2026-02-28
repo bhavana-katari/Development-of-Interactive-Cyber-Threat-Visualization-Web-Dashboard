@@ -163,9 +163,13 @@ http://localhost:5000
 Make sure you run the terminal with appropriate permissions if packet capture requires elevated access.
 
 ---
-## 🎥 Dashboard Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+## 🎥 Video Demonstration
+
+Click the  below to watch the full project demo :
+
+[![Cyber Threat Monitoring Demo](thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/lX5D7WOvYFE?si=N6G7s7SLGABHZqgF)
+
 ---
 
 ## 📊 Real-World Applications
