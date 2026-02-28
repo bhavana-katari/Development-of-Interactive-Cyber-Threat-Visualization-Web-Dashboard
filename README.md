@@ -170,7 +170,10 @@ Click the thumbnail below to watch the full project demo:
 
 [![Cyber Threat Monitoring Demo](thumbnail.png)](https://youtu.be/lX5D7WOvYFE)
 ---
+##  PPT
+https://gamma.app/docs/Real-Time-Interactive-Cyber-Threat-Intelligence-Network-Monitorin-7mbttn10i9phpqt
 
+---
 ## 📊 Real-World Applications
 
 This project can be used in:
