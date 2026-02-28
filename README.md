@@ -166,10 +166,9 @@ Make sure you run the terminal with appropriate permissions if packet capture re
 
 ## 🎥 Video Demonstration
 
-Click the  below to watch the full project demo :
+Click the thumbnail below to watch the full project demo:
 
-[![Cyber Threat Monitoring Demo](thumbnail.png)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/lX5D7WOvYFE?si=N6G7s7SLGABHZqgF)
-
+[![Cyber Threat Monitoring Demo](thumbnail.png)](https://youtu.be/lX5D7WOvYFE)
 ---
 
 ## 📊 Real-World Applications
