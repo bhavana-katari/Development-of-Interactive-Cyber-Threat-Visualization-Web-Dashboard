@@ -163,7 +163,11 @@ http://localhost:5000
 Make sure you run the terminal with appropriate permissions if packet capture requires elevated access.
 
 ---
+## 🎥 Video Demo
 
+[![Watch the Demo](https://img.youtube.com/vi/U9ecNsdQ5Ss/0.jpg)](https://youtu.be/U9ecNsdQ5Ss)
+
+💡 Click the image above to watch the full project demo on YouTube
 
 ##  PPT
 https://gamma.app/docs/Real-Time-Interactive-Cyber-Threat-Intelligence-Network-Monitorin-7mbttn10i9phpqt
